@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Louis, a Fullstack developer from the UK working with Javascript, React and Node.js primarily.
+I'm Louis, a Fullstack developer from the UK currently located in Helsinki, Finland. I work with with Javascript, React and Node.js primarily.
 
 - 🔭 I’m currently working on school projects along side a Bug Tracker created using React and Node.js
 - 🌱 I’m currently learning Javascript, React, Node.js, Typescript and Git, primarily using projects.
